@@ -1,0 +1,41 @@
+To upload your Power BI project on GitHub, here’s a step-by-step guide on setting up and uploading your repository:
+
+Step 1: Download and Install Git (If Not Already Installed)
+1. Download Git: Go to Gitup Dekstop 
+2. Install Git: Run the downloaded installer and follow the installation prompts.
+
+ Step 2: Set Up a GitHub Repository
+1. Create a GitHub Account (if you don’t already have one) at [GitHub](https://github.com/).
+2. Create a New Repository:
+   - Sign in to GitHub.
+   - Click on the + icon in the top-right corner and select New repository.
+   - Name your repository, add a description (e.g., "Power BI project on GDP and population visualization"), and choose if you want it public or private.
+   - Click on Create repository.
+
+ Step 3:
+Step 4: Verify the Upload
+1. Go to your GitHub repository page and refresh.
+2. You should see all the files you pushed, confirming a successful upload.
+
+ README File Example
+To make it easy for others to understand your project, include a **README.md** file with details about your Power BI project. Here’s a sample structure:
+
+```markdown
+ Power BI Project: GDP and Population Visualization
+
+ Project Description
+This project visualizes GDP and population changes over time using Power BI. It includes insights and trends to help understand economic and demographic shifts across different time periods.
+
+ Features
+- Interactive dashboards and charts
+- Year-wise GDP and population comparisons
+- Trend analysis
+
+step 5:
+make Excel sheet of Gdp and Population
+and upload that in Power BI load it and Add Visuals
+
+Step 6:
+save it
+
+ 
