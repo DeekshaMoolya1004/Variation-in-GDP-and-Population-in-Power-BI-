@@ -36,8 +36,13 @@ In **Pie chart** represent the Top 10 Country In Terms of GDP
 In **Column Chart** Represent the Density Vs Gdp and Population
 Region Wise Distribution
 
-SnapShot
-![image](https://github.com/user-attachments/assets/9506aedc-bc73-460f-9736-a89340720f23)
+**SnapShot**
+
+![image](https://github.com/user-attachments/assets/c0e73ec5-4924-4c30-b291-6575461ed2c4)
+
+![image](https://github.com/user-attachments/assets/62445415-0393-420a-947b-fc9cb614229c)
+
+
 
 **Conclusion**
 We can Able to see the population and Gdp of total 180 Country
